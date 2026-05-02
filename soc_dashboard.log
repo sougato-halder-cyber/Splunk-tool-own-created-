@@ -1,0 +1,12 @@
+2026-05-02 15:24:26,350 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.101:5000
+2026-05-02 15:24:26,352 [INFO] [33mPress CTRL+C to quit[0m
+2026-05-02 15:24:32,017 [INFO] 127.0.0.1 - - [02/May/2026 15:24:32] "GET / HTTP/1.1" 200 -
+2026-05-02 15:24:37,080 [INFO] 127.0.0.1 - - [02/May/2026 15:24:37] "GET /socket.io/?EIO=4&transport=polling&t=Pte78Tq HTTP/1.1" 200 -
+2026-05-02 15:24:37,348 [INFO] Client connected
+2026-05-02 15:24:37,380 [INFO] 127.0.0.1 - - [02/May/2026 15:24:37] "GET /socket.io/?EIO=4&transport=polling&t=Pte78Xp&sid=hjWiaoCPDl0dQ0aeAAAA HTTP/1.1" 200 -
+2026-05-02 15:24:37,542 [INFO] 127.0.0.1 - - [02/May/2026 15:24:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-02 15:24:38,370 [INFO] 127.0.0.1 - - [02/May/2026 15:24:38] "POST /socket.io/?EIO=4&transport=polling&t=Pte78Xd&sid=hjWiaoCPDl0dQ0aeAAAA HTTP/1.1" 200 -
+2026-05-02 15:26:12,230 [INFO] 127.0.0.1 - - [02/May/2026 15:26:12] "GET /socket.io/?EIO=4&transport=websocket&sid=hjWiaoCPDl0dQ0aeAAAA HTTP/1.1" 200 -
